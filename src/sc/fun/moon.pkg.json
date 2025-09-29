@@ -1,0 +1,8 @@
+{
+    "import": [
+        {
+            "alias": "pc",
+            "path": "illusory0x0/simple_parserc"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "import": [
+        {
+            "alias": "fun",
+            "path": "CAIMEOX/sequent/sc/fun"
+        },
+         {
+            "alias": "core",
+            "path": "CAIMEOX/sequent/sc/core"
+        }
+    ]
+}
